@@ -54,6 +54,7 @@ git clone https://github.com/SimonR99/goat-planner.git
 cd goat-planner
 pip install -r requirements.txt
 pip install -e .
+sudo apt-get install libportaudio2
 ```
 
 ### Web Interface Setup
