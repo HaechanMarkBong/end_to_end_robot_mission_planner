@@ -55,8 +55,8 @@ Goat Planner bridges the gap between natural language commands and robot executi
 ### Standalone Installation
 
 ```bash
-git clone https://github.com/SimonR99/goat-planner.git
-cd goat-planner
+git clone https://github.com/HaechanMarkBong/end_to_end_robot_mission_planner.git
+cd end_to_end_robot_mission_planner
 pip install -r requirements.txt
 pip install -e .
 sudo apt-get install libportaudio2 piper
