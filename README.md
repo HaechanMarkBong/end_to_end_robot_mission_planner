@@ -34,6 +34,7 @@ Goat Planner bridges the gap between natural language commands and robot executi
 - **3D Perception**: Support for multimodal 3D mapping and scene understanding
 
 ## TODO
+- [ ] Single script at startup to run all
 - [ ] Replace Microsoft TTS with Piper TTS
 - [ ] Add voice detection (segmentation, wake word, etc.)
 - [ ] Update llama3.2 3B -> Qwen 3 4B
@@ -45,7 +46,6 @@ Goat Planner bridges the gap between natural language commands and robot executi
 - [ ] Improve shepherd object detection speed
 - [ ] Fine-tune goat planner model to improve tree generation
 - [ ] Add querying from the web interface
-
 - [ ] Add unit tests to make sure the system is working as expected
 - [ ] Add more robust logging
 - [ ] Perform LLM BLIP querying
