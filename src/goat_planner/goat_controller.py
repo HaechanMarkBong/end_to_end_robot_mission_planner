@@ -151,7 +151,7 @@ Always strive to be helpful, clear, and concise in your responses. Refer to your
     def __init__(
         self,
         ollama_host: str = "http://0.0.0.0:11434",
-        model: str = "llama3.2",
+        model: str = "qwen3:4b",
         on_message_callback: Optional[Callable] = None,
         on_plan_update_callback: Optional[Callable] = None,
         on_state_update_callback: Optional[Callable] = None,
